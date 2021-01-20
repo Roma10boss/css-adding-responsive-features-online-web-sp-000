@@ -43,6 +43,10 @@
     margin: 0;
     float: none;
   }
+  
+  .col-3, .col-2, .col-1{
+    
+  }
   .boder-right{
     
   }
