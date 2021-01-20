@@ -38,14 +38,11 @@
   #navbar nav a{
     font-size: 0.9em;
   }
-  .col-3 p {
+  
+  .col-3, .col-2, .col-1{
     width: 100%;
     margin: 0;
     float: none;
-  }
-  
-  .col-3, .col-2, .col-1{
-    
   }
   .boder-right{
     
